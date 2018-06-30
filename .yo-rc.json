@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.geardao.gateway",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.14.3",
+    "baseName": "gatewaywithuaa",
+    "packageName": "com.geardao.gateway",
+    "packageFolder": "com/geardao/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "e53b3ccec9cf8c09e1330c8e17f27b5dd3622a6c",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "yarn",
+    "applicationType": "gateway",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "ja"
+    ]
+  }
+}
